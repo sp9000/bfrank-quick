@@ -1,0 +1,1 @@
+const s=""+globalThis.__publicAssetsURL("images/icon/2.png"),i=""+globalThis.__publicAssetsURL("images/icon/3.png"),o=""+globalThis.__publicAssetsURL("images/icon/4.png"),_=""+globalThis.__publicAssetsURL("images/icon/6.png");export{s as _,i as a,o as b,_ as c};
