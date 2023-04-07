@@ -1,4 +1,4 @@
-var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z, _A, _B, _C, _D, _E, _F, _G, _H, _I, _J, _K, _L, _M, _N, _O, _P, _Q, _R, _S, _T, _U, _V, _W, _X, _Y, _Z, __, _$, _aa, _ba, _ca, _da, _ea, _fa, _ga, _ha, _ia, _ja, _ka, _la, _ma, _na, _oa, _pa, _qa, _ra, _sa, _ta, _ua, _va, _wa, _xa, _ya, _za, _Aa, _Ba, _Ca, _Da, _Ea, _Fa, _Ga, _Ha, _Ia, _Ja, _Ka, _La, _Ma, _Na, _Oa, _Pa, _Qa, _Ra, _Sa, _Ta, _Ua, _Va, _Wa, _Xa, _Ya, _Za, __a, _$a, _ab, _bb, _cb, _db, _eb, _fb, _gb, _hb, _ib, _jb, _kb, _lb, _mb, _nb, _ob, _pb, _qb, _rb, _sb, _tb, _ub, _vb, _wb, _xb, _yb, _zb, _Ab, _Bb, _Cb, _Db, _Eb, _Fb, _Gb, _Hb, _Ib, _Jb, _Kb, _Lb, _Mb, _Nb, _Ob, _Pb, _Qb, _Rb, _Sb, _Tb, _Ub, _Vb, _Wb, _Xb, _Yb, _Zb, __b, _$b, _ac, _bc, _cc, _dc, _ec, _fc, _gc, _hc, _ic, _jc, _kc, _lc, _mc, _nc, _oc, _pc, _qc, _rc, _sc, _tc, _uc, _vc, _wc, _xc, _yc, _zc, _Ac, _Bc, _Cc, _Dc, _Ec, _Fc, _Gc, _Hc, _Ic, _Jc, _Kc, _Lc, _Mc, _Nc, _Oc, _Pc, _Qc, _Rc, _Sc, _Tc, _Uc, _Vc, _Wc, _Xc, _Yc, _Zc, __c, _$c, _ad, _bd, _cd, _dd, _ed, _fd, _gd, _hd, _id, _jd, _kd, _ld, _md, _nd, _od, _pd, _qd, _rd, _sd, _td, _ud, _vd, _wd, _xd, _yd, _zd, _Ad, _Bd, _Cd, _Dd, _Ed, _Fd, _Gd, _Hd, _Id, _Jd;
+var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z, _A, _B, _C, _D, _E, _F, _G, _H, _I, _J, _K, _L, _M, _N, _O, _P, _Q, _R, _S, _T, _U, _V, _W, _X, _Y, _Z, __, _$, _aa, _ba, _ca, _da, _ea, _fa, _ga, _ha, _ia, _ja, _ka, _la, _ma, _na, _oa, _pa, _qa, _ra, _sa, _ta, _ua, _va, _wa, _xa, _ya, _za, _Aa, _Ba, _Ca, _Da, _Ea, _Fa, _Ga, _Ha, _Ia, _Ja, _Ka, _La, _Ma, _Na, _Oa, _Pa, _Qa, _Ra, _Sa, _Ta, _Ua, _Va, _Wa, _Xa, _Ya, _Za, __a, _$a, _ab, _bb, _cb, _db, _eb, _fb, _gb, _hb, _ib, _jb, _kb, _lb, _mb, _nb, _ob, _pb, _qb, _rb, _sb, _tb, _ub, _vb, _wb, _xb, _yb, _zb, _Ab, _Bb, _Cb, _Db, _Eb, _Fb, _Gb, _Hb, _Ib, _Jb, _Kb, _Lb, _Mb, _Nb, _Ob, _Pb, _Qb, _Rb, _Sb, _Tb, _Ub, _Vb, _Wb, _Xb, _Yb, _Zb, __b, _$b, _ac, _bc, _cc, _dc, _ec, _fc, _gc, _hc, _ic, _jc, _kc, _lc, _mc, _nc, _oc, _pc, _qc, _rc, _sc, _tc, _uc, _vc;
 import { getCurrentInstance, reactive, toRef, isRef, inject, defineComponent, computed, ref, h, resolveComponent, effectScope, markRaw, toRaw, isReactive, watch, nextTick, unref, getCurrentScope, onScopeDispose, toRefs, defineAsyncComponent, version, shallowRef, onUnmounted, Fragment as Fragment$1, createVNode, Text, Transition, Suspense, provide, useSSRContext, withCtx, onErrorCaptured, createApp } from "vue";
 import { $fetch } from "ofetch";
 import { useRuntimeConfig as useRuntimeConfig$1 } from "#internal/nitro";
@@ -1617,7 +1617,7 @@ const node_modules__64pinia_nuxt_dist_runtime_plugin_vue3_mjs_A0OWXRrUgq = defin
 const components = {
   Icon: defineAsyncComponent(() => import(
     /* webpackChunkName: "components/icon" */
-    "./_nuxt/Icon.1ebb366b.js"
+    "./_nuxt/Icon.d595da94.js"
   ).then((c) => c.default || c))
 };
 const _nuxt_components_plugin_mjs_KR1HBZs4kY = defineNuxtPlugin((nuxtApp) => {
@@ -1713,23 +1713,6 @@ const node_modules_nuxt_dist_head_runtime_lib_vueuse_head_plugin_mjs_D7WGfuP1A0 
     };
   }
 });
-const __nuxt_page_meta$_ = {};
-const __nuxt_page_meta$Z = {};
-const __nuxt_page_meta$Y = {};
-const __nuxt_page_meta$X = {};
-const __nuxt_page_meta$W = {};
-const __nuxt_page_meta$V = {};
-const __nuxt_page_meta$U = {};
-const __nuxt_page_meta$T = {};
-const __nuxt_page_meta$S = {};
-const __nuxt_page_meta$R = {};
-const __nuxt_page_meta$Q = {};
-const __nuxt_page_meta$P = {};
-const __nuxt_page_meta$O = {};
-const __nuxt_page_meta$N = {};
-const __nuxt_page_meta$M = {};
-const __nuxt_page_meta$L = {};
-const __nuxt_page_meta$K = {};
 const __nuxt_page_meta$J = {};
 const __nuxt_page_meta$I = {};
 const __nuxt_page_meta$H = {};
@@ -1738,9 +1721,7 @@ const __nuxt_page_meta$F = {};
 const __nuxt_page_meta$E = {};
 const __nuxt_page_meta$D = {};
 const __nuxt_page_meta$C = {};
-const __nuxt_page_meta$B = {
-  layout: "custom"
-};
+const __nuxt_page_meta$B = {};
 const __nuxt_page_meta$A = {};
 const __nuxt_page_meta$z = {};
 const __nuxt_page_meta$y = {};
@@ -1757,7 +1738,9 @@ const __nuxt_page_meta$o = {};
 const __nuxt_page_meta$n = {};
 const __nuxt_page_meta$m = {};
 const __nuxt_page_meta$l = {};
-const __nuxt_page_meta$k = {};
+const __nuxt_page_meta$k = {
+  layout: "custom"
+};
 const __nuxt_page_meta$j = {};
 const __nuxt_page_meta$i = {};
 const __nuxt_page_meta$h = {};
@@ -1780,1264 +1763,924 @@ const __nuxt_page_meta$1 = {};
 const __nuxt_page_meta = {};
 const _routes = [
   {
-    name: (_a = __nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.name) != null ? _a : "blog-blog-detail___en",
-    path: (_b = __nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.path) != null ? _b : "/blog/blog-detail",
+    name: (_a = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.name) != null ? _a : "blog-blog-detail___en",
+    path: (_b = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.path) != null ? _b : "/blog/blog-detail",
     file: "/home/sp07/vue/templatian/pages/blog/blog-detail.vue",
-    children: [],
-    meta: __nuxt_page_meta$_,
-    alias: (__nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.alias) || [],
-    redirect: (__nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.redirect) || void 0,
-    component: () => import("./_nuxt/blog-detail.51921d69.js").then((m) => m.default || m)
-  },
-  {
-    name: (_c = __nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.name) != null ? _c : "blog-blog-detail___fr",
-    path: (_d = __nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.path) != null ? _d : "/fr/blog/blog-detail",
-    file: "/home/sp07/vue/templatian/pages/blog/blog-detail.vue",
-    children: [],
-    meta: __nuxt_page_meta$_,
-    alias: (__nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.alias) || [],
-    redirect: (__nuxt_page_meta$_ == null ? void 0 : __nuxt_page_meta$_.redirect) || void 0,
-    component: () => import("./_nuxt/blog-detail.51921d69.js").then((m) => m.default || m)
-  },
-  {
-    name: (_e = __nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.name) != null ? _e : "blog-blog-nosidebar___en",
-    path: (_f = __nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.path) != null ? _f : "/blog/blog-nosidebar",
-    file: "/home/sp07/vue/templatian/pages/blog/blog-nosidebar.vue",
-    children: [],
-    meta: __nuxt_page_meta$Z,
-    alias: (__nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.alias) || [],
-    redirect: (__nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.redirect) || void 0,
-    component: () => import("./_nuxt/blog-nosidebar.7b0ea720.js").then((m) => m.default || m)
-  },
-  {
-    name: (_g = __nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.name) != null ? _g : "blog-blog-nosidebar___fr",
-    path: (_h = __nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.path) != null ? _h : "/fr/blog/blog-nosidebar",
-    file: "/home/sp07/vue/templatian/pages/blog/blog-nosidebar.vue",
-    children: [],
-    meta: __nuxt_page_meta$Z,
-    alias: (__nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.alias) || [],
-    redirect: (__nuxt_page_meta$Z == null ? void 0 : __nuxt_page_meta$Z.redirect) || void 0,
-    component: () => import("./_nuxt/blog-nosidebar.7b0ea720.js").then((m) => m.default || m)
-  },
-  {
-    name: (_i = __nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.name) != null ? _i : "collection-full-width___en",
-    path: (_j = __nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.path) != null ? _j : "/collection/full-width",
-    file: "/home/sp07/vue/templatian/pages/collection/full-width.vue",
-    children: [],
-    meta: __nuxt_page_meta$Y,
-    alias: (__nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.alias) || [],
-    redirect: (__nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.redirect) || void 0,
-    component: () => import("./_nuxt/full-width.65b1c734.js").then((m) => m.default || m)
-  },
-  {
-    name: (_k = __nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.name) != null ? _k : "collection-full-width___fr",
-    path: (_l = __nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.path) != null ? _l : "/fr/collection/full-width",
-    file: "/home/sp07/vue/templatian/pages/collection/full-width.vue",
-    children: [],
-    meta: __nuxt_page_meta$Y,
-    alias: (__nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.alias) || [],
-    redirect: (__nuxt_page_meta$Y == null ? void 0 : __nuxt_page_meta$Y.redirect) || void 0,
-    component: () => import("./_nuxt/full-width.65b1c734.js").then((m) => m.default || m)
-  },
-  {
-    name: (_m = __nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.name) != null ? _m : "collection-leftsidebar-id___en",
-    path: (_n = __nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.path) != null ? _n : "/collection/leftsidebar/:id",
-    file: "/home/sp07/vue/templatian/pages/collection/leftsidebar/[id].vue",
-    children: [],
-    meta: __nuxt_page_meta$X,
-    alias: (__nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.alias) || [],
-    redirect: (__nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.redirect) || void 0,
-    component: () => import("./_nuxt/_id_.9b2f3798.js").then((m) => m.default || m)
-  },
-  {
-    name: (_o = __nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.name) != null ? _o : "collection-leftsidebar-id___fr",
-    path: (_p = __nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.path) != null ? _p : "/fr/collection/leftsidebar/:id",
-    file: "/home/sp07/vue/templatian/pages/collection/leftsidebar/[id].vue",
-    children: [],
-    meta: __nuxt_page_meta$X,
-    alias: (__nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.alias) || [],
-    redirect: (__nuxt_page_meta$X == null ? void 0 : __nuxt_page_meta$X.redirect) || void 0,
-    component: () => import("./_nuxt/_id_.9b2f3798.js").then((m) => m.default || m)
-  },
-  {
-    name: (_q = __nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.name) != null ? _q : "collection-list-view___en",
-    path: (_r = __nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.path) != null ? _r : "/collection/list-view",
-    file: "/home/sp07/vue/templatian/pages/collection/list-view.vue",
-    children: [],
-    meta: __nuxt_page_meta$W,
-    alias: (__nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.alias) || [],
-    redirect: (__nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.redirect) || void 0,
-    component: () => import("./_nuxt/list-view.cf6808a4.js").then((m) => m.default || m)
-  },
-  {
-    name: (_s = __nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.name) != null ? _s : "collection-list-view___fr",
-    path: (_t = __nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.path) != null ? _t : "/fr/collection/list-view",
-    file: "/home/sp07/vue/templatian/pages/collection/list-view.vue",
-    children: [],
-    meta: __nuxt_page_meta$W,
-    alias: (__nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.alias) || [],
-    redirect: (__nuxt_page_meta$W == null ? void 0 : __nuxt_page_meta$W.redirect) || void 0,
-    component: () => import("./_nuxt/list-view.cf6808a4.js").then((m) => m.default || m)
-  },
-  {
-    name: (_u = __nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.name) != null ? _u : "collection-metro___en",
-    path: (_v = __nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.path) != null ? _v : "/collection/metro",
-    file: "/home/sp07/vue/templatian/pages/collection/metro.vue",
-    children: [],
-    meta: __nuxt_page_meta$V,
-    alias: (__nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.alias) || [],
-    redirect: (__nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.redirect) || void 0,
-    component: () => import("./_nuxt/metro.483e70b5.js").then((m) => m.default || m)
-  },
-  {
-    name: (_w = __nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.name) != null ? _w : "collection-metro___fr",
-    path: (_x = __nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.path) != null ? _x : "/fr/collection/metro",
-    file: "/home/sp07/vue/templatian/pages/collection/metro.vue",
-    children: [],
-    meta: __nuxt_page_meta$V,
-    alias: (__nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.alias) || [],
-    redirect: (__nuxt_page_meta$V == null ? void 0 : __nuxt_page_meta$V.redirect) || void 0,
-    component: () => import("./_nuxt/metro.483e70b5.js").then((m) => m.default || m)
-  },
-  {
-    name: (_y = __nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.name) != null ? _y : "collection-no-sidebar___en",
-    path: (_z = __nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.path) != null ? _z : "/collection/no-sidebar",
-    file: "/home/sp07/vue/templatian/pages/collection/no-sidebar.vue",
-    children: [],
-    meta: __nuxt_page_meta$U,
-    alias: (__nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.alias) || [],
-    redirect: (__nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.redirect) || void 0,
-    component: () => import("./_nuxt/no-sidebar.e86ee996.js").then((m) => m.default || m)
-  },
-  {
-    name: (_A = __nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.name) != null ? _A : "collection-no-sidebar___fr",
-    path: (_B = __nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.path) != null ? _B : "/fr/collection/no-sidebar",
-    file: "/home/sp07/vue/templatian/pages/collection/no-sidebar.vue",
-    children: [],
-    meta: __nuxt_page_meta$U,
-    alias: (__nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.alias) || [],
-    redirect: (__nuxt_page_meta$U == null ? void 0 : __nuxt_page_meta$U.redirect) || void 0,
-    component: () => import("./_nuxt/no-sidebar.e86ee996.js").then((m) => m.default || m)
-  },
-  {
-    name: (_C = __nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.name) != null ? _C : "collection-right-sidebar___en",
-    path: (_D = __nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.path) != null ? _D : "/collection/right-sidebar",
-    file: "/home/sp07/vue/templatian/pages/collection/right-sidebar.vue",
-    children: [],
-    meta: __nuxt_page_meta$T,
-    alias: (__nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.alias) || [],
-    redirect: (__nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.redirect) || void 0,
-    component: () => import("./_nuxt/right-sidebar.eea8192c.js").then((m) => m.default || m)
-  },
-  {
-    name: (_E = __nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.name) != null ? _E : "collection-right-sidebar___fr",
-    path: (_F = __nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.path) != null ? _F : "/fr/collection/right-sidebar",
-    file: "/home/sp07/vue/templatian/pages/collection/right-sidebar.vue",
-    children: [],
-    meta: __nuxt_page_meta$T,
-    alias: (__nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.alias) || [],
-    redirect: (__nuxt_page_meta$T == null ? void 0 : __nuxt_page_meta$T.redirect) || void 0,
-    component: () => import("./_nuxt/right-sidebar.eea8192c.js").then((m) => m.default || m)
-  },
-  {
-    name: (_G = __nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.name) != null ? _G : "collection-sidebar-popup___en",
-    path: (_H = __nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.path) != null ? _H : "/collection/sidebar-popup",
-    file: "/home/sp07/vue/templatian/pages/collection/sidebar-popup.vue",
-    children: [],
-    meta: __nuxt_page_meta$S,
-    alias: (__nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.alias) || [],
-    redirect: (__nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.redirect) || void 0,
-    component: () => import("./_nuxt/sidebar-popup.ab58aa9f.js").then((m) => m.default || m)
-  },
-  {
-    name: (_I = __nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.name) != null ? _I : "collection-sidebar-popup___fr",
-    path: (_J = __nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.path) != null ? _J : "/fr/collection/sidebar-popup",
-    file: "/home/sp07/vue/templatian/pages/collection/sidebar-popup.vue",
-    children: [],
-    meta: __nuxt_page_meta$S,
-    alias: (__nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.alias) || [],
-    redirect: (__nuxt_page_meta$S == null ? void 0 : __nuxt_page_meta$S.redirect) || void 0,
-    component: () => import("./_nuxt/sidebar-popup.ab58aa9f.js").then((m) => m.default || m)
-  },
-  {
-    name: (_K = __nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.name) != null ? _K : "collection-six-grid___en",
-    path: (_L = __nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.path) != null ? _L : "/collection/six-grid",
-    file: "/home/sp07/vue/templatian/pages/collection/six-grid.vue",
-    children: [],
-    meta: __nuxt_page_meta$R,
-    alias: (__nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.alias) || [],
-    redirect: (__nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.redirect) || void 0,
-    component: () => import("./_nuxt/six-grid.e1e1f63a.js").then((m) => m.default || m)
-  },
-  {
-    name: (_M = __nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.name) != null ? _M : "collection-six-grid___fr",
-    path: (_N = __nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.path) != null ? _N : "/fr/collection/six-grid",
-    file: "/home/sp07/vue/templatian/pages/collection/six-grid.vue",
-    children: [],
-    meta: __nuxt_page_meta$R,
-    alias: (__nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.alias) || [],
-    redirect: (__nuxt_page_meta$R == null ? void 0 : __nuxt_page_meta$R.redirect) || void 0,
-    component: () => import("./_nuxt/six-grid.e1e1f63a.js").then((m) => m.default || m)
-  },
-  {
-    name: (_O = __nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.name) != null ? _O : "collection-three-grid___en",
-    path: (_P = __nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.path) != null ? _P : "/collection/three-grid",
-    file: "/home/sp07/vue/templatian/pages/collection/three-grid.vue",
-    children: [],
-    meta: __nuxt_page_meta$Q,
-    alias: (__nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.alias) || [],
-    redirect: (__nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.redirect) || void 0,
-    component: () => import("./_nuxt/three-grid.8a8634c8.js").then((m) => m.default || m)
-  },
-  {
-    name: (_Q = __nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.name) != null ? _Q : "collection-three-grid___fr",
-    path: (_R = __nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.path) != null ? _R : "/fr/collection/three-grid",
-    file: "/home/sp07/vue/templatian/pages/collection/three-grid.vue",
-    children: [],
-    meta: __nuxt_page_meta$Q,
-    alias: (__nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.alias) || [],
-    redirect: (__nuxt_page_meta$Q == null ? void 0 : __nuxt_page_meta$Q.redirect) || void 0,
-    component: () => import("./_nuxt/three-grid.8a8634c8.js").then((m) => m.default || m)
-  },
-  {
-    name: (_S = __nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.name) != null ? _S : "index___en",
-    path: (_T = __nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.path) != null ? _T : "/",
-    file: "/home/sp07/vue/templatian/pages/index.vue",
-    children: [],
-    meta: __nuxt_page_meta$P,
-    alias: (__nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.alias) || [],
-    redirect: (__nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.redirect) || void 0,
-    component: () => import("./_nuxt/index.371f9ee5.js").then((m) => m.default || m)
-  },
-  {
-    name: (_U = __nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.name) != null ? _U : "index___fr",
-    path: (_V = __nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.path) != null ? _V : "/fr",
-    file: "/home/sp07/vue/templatian/pages/index.vue",
-    children: [],
-    meta: __nuxt_page_meta$P,
-    alias: (__nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.alias) || [],
-    redirect: (__nuxt_page_meta$P == null ? void 0 : __nuxt_page_meta$P.redirect) || void 0,
-    component: () => import("./_nuxt/index.371f9ee5.js").then((m) => m.default || m)
-  },
-  {
-    name: (_W = __nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.name) != null ? _W : "page-404___en",
-    path: (_X = __nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.path) != null ? _X : "/page/404",
-    file: "/home/sp07/vue/templatian/pages/page/404.vue",
-    children: [],
-    meta: __nuxt_page_meta$O,
-    alias: (__nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.alias) || [],
-    redirect: (__nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.redirect) || void 0,
-    component: () => import("./_nuxt/404.bc45f8d0.js").then((m) => m.default || m)
-  },
-  {
-    name: (_Y = __nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.name) != null ? _Y : "page-404___fr",
-    path: (_Z = __nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.path) != null ? _Z : "/fr/page/404",
-    file: "/home/sp07/vue/templatian/pages/page/404.vue",
-    children: [],
-    meta: __nuxt_page_meta$O,
-    alias: (__nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.alias) || [],
-    redirect: (__nuxt_page_meta$O == null ? void 0 : __nuxt_page_meta$O.redirect) || void 0,
-    component: () => import("./_nuxt/404.bc45f8d0.js").then((m) => m.default || m)
-  },
-  {
-    name: (__ = __nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.name) != null ? __ : "page-about___en",
-    path: (_$ = __nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.path) != null ? _$ : "/page/about",
-    file: "/home/sp07/vue/templatian/pages/page/about.vue",
-    children: [],
-    meta: __nuxt_page_meta$N,
-    alias: (__nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.alias) || [],
-    redirect: (__nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.redirect) || void 0,
-    component: () => import("./_nuxt/about.16fbe047.js").then((m) => m.default || m)
-  },
-  {
-    name: (_aa = __nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.name) != null ? _aa : "page-about___fr",
-    path: (_ba = __nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.path) != null ? _ba : "/fr/page/about",
-    file: "/home/sp07/vue/templatian/pages/page/about.vue",
-    children: [],
-    meta: __nuxt_page_meta$N,
-    alias: (__nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.alias) || [],
-    redirect: (__nuxt_page_meta$N == null ? void 0 : __nuxt_page_meta$N.redirect) || void 0,
-    component: () => import("./_nuxt/about.16fbe047.js").then((m) => m.default || m)
-  },
-  {
-    name: (_ca = __nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.name) != null ? _ca : "page-account-cart___en",
-    path: (_da = __nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.path) != null ? _da : "/page/account/cart",
-    file: "/home/sp07/vue/templatian/pages/page/account/cart.vue",
-    children: [],
-    meta: __nuxt_page_meta$M,
-    alias: (__nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.alias) || [],
-    redirect: (__nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.redirect) || void 0,
-    component: () => import("./_nuxt/cart.63a3ec66.js").then((m) => m.default || m)
-  },
-  {
-    name: (_ea = __nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.name) != null ? _ea : "page-account-cart___fr",
-    path: (_fa = __nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.path) != null ? _fa : "/fr/page/account/cart",
-    file: "/home/sp07/vue/templatian/pages/page/account/cart.vue",
-    children: [],
-    meta: __nuxt_page_meta$M,
-    alias: (__nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.alias) || [],
-    redirect: (__nuxt_page_meta$M == null ? void 0 : __nuxt_page_meta$M.redirect) || void 0,
-    component: () => import("./_nuxt/cart.63a3ec66.js").then((m) => m.default || m)
-  },
-  {
-    name: (_ga = __nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.name) != null ? _ga : "page-account-checkout___en",
-    path: (_ha = __nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.path) != null ? _ha : "/page/account/checkout",
-    file: "/home/sp07/vue/templatian/pages/page/account/checkout.vue",
-    children: [],
-    meta: __nuxt_page_meta$L,
-    alias: (__nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.alias) || [],
-    redirect: (__nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.redirect) || void 0,
-    component: () => import("./_nuxt/checkout.a005506d.js").then((m) => m.default || m)
-  },
-  {
-    name: (_ia = __nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.name) != null ? _ia : "page-account-checkout___fr",
-    path: (_ja = __nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.path) != null ? _ja : "/fr/page/account/checkout",
-    file: "/home/sp07/vue/templatian/pages/page/account/checkout.vue",
-    children: [],
-    meta: __nuxt_page_meta$L,
-    alias: (__nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.alias) || [],
-    redirect: (__nuxt_page_meta$L == null ? void 0 : __nuxt_page_meta$L.redirect) || void 0,
-    component: () => import("./_nuxt/checkout.a005506d.js").then((m) => m.default || m)
-  },
-  {
-    name: (_ka = __nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.name) != null ? _ka : "page-account-contact___en",
-    path: (_la = __nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.path) != null ? _la : "/page/account/contact",
-    file: "/home/sp07/vue/templatian/pages/page/account/contact.vue",
-    children: [],
-    meta: __nuxt_page_meta$K,
-    alias: (__nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.alias) || [],
-    redirect: (__nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.redirect) || void 0,
-    component: () => import("./_nuxt/contact.85012910.js").then((m) => m.default || m)
-  },
-  {
-    name: (_ma = __nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.name) != null ? _ma : "page-account-contact___fr",
-    path: (_na = __nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.path) != null ? _na : "/fr/page/account/contact",
-    file: "/home/sp07/vue/templatian/pages/page/account/contact.vue",
-    children: [],
-    meta: __nuxt_page_meta$K,
-    alias: (__nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.alias) || [],
-    redirect: (__nuxt_page_meta$K == null ? void 0 : __nuxt_page_meta$K.redirect) || void 0,
-    component: () => import("./_nuxt/contact.85012910.js").then((m) => m.default || m)
-  },
-  {
-    name: (_oa = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.name) != null ? _oa : "page-account-dashboard___en",
-    path: (_pa = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.path) != null ? _pa : "/page/account/dashboard",
-    file: "/home/sp07/vue/templatian/pages/page/account/dashboard.vue",
     children: [],
     meta: __nuxt_page_meta$J,
     alias: (__nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.alias) || [],
     redirect: (__nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.redirect) || void 0,
-    component: () => import("./_nuxt/dashboard.63e075b9.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/blog-detail.66efff39.js").then((m) => m.default || m)
   },
   {
-    name: (_qa = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.name) != null ? _qa : "page-account-dashboard___fr",
-    path: (_ra = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.path) != null ? _ra : "/fr/page/account/dashboard",
-    file: "/home/sp07/vue/templatian/pages/page/account/dashboard.vue",
+    name: (_c = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.name) != null ? _c : "blog-blog-detail___fr",
+    path: (_d = __nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.path) != null ? _d : "/fr/blog/blog-detail",
+    file: "/home/sp07/vue/templatian/pages/blog/blog-detail.vue",
     children: [],
     meta: __nuxt_page_meta$J,
     alias: (__nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.alias) || [],
     redirect: (__nuxt_page_meta$J == null ? void 0 : __nuxt_page_meta$J.redirect) || void 0,
-    component: () => import("./_nuxt/dashboard.63e075b9.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/blog-detail.66efff39.js").then((m) => m.default || m)
   },
   {
-    name: (_sa = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.name) != null ? _sa : "page-account-forget-password___en",
-    path: (_ta = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.path) != null ? _ta : "/page/account/forget-password",
-    file: "/home/sp07/vue/templatian/pages/page/account/forget-password.vue",
+    name: (_e = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.name) != null ? _e : "blog-blog-nosidebar___en",
+    path: (_f = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.path) != null ? _f : "/blog/blog-nosidebar",
+    file: "/home/sp07/vue/templatian/pages/blog/blog-nosidebar.vue",
     children: [],
     meta: __nuxt_page_meta$I,
     alias: (__nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.alias) || [],
     redirect: (__nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.redirect) || void 0,
-    component: () => import("./_nuxt/forget-password.dedd3869.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/blog-nosidebar.2a0aa2ea.js").then((m) => m.default || m)
   },
   {
-    name: (_ua = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.name) != null ? _ua : "page-account-forget-password___fr",
-    path: (_va = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.path) != null ? _va : "/fr/page/account/forget-password",
-    file: "/home/sp07/vue/templatian/pages/page/account/forget-password.vue",
+    name: (_g = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.name) != null ? _g : "blog-blog-nosidebar___fr",
+    path: (_h = __nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.path) != null ? _h : "/fr/blog/blog-nosidebar",
+    file: "/home/sp07/vue/templatian/pages/blog/blog-nosidebar.vue",
     children: [],
     meta: __nuxt_page_meta$I,
     alias: (__nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.alias) || [],
     redirect: (__nuxt_page_meta$I == null ? void 0 : __nuxt_page_meta$I.redirect) || void 0,
-    component: () => import("./_nuxt/forget-password.dedd3869.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/blog-nosidebar.2a0aa2ea.js").then((m) => m.default || m)
   },
   {
-    name: (_wa = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.name) != null ? _wa : "page-account-login___en",
-    path: (_xa = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.path) != null ? _xa : "/page/account/login",
-    file: "/home/sp07/vue/templatian/pages/page/account/login.vue",
+    name: (_i = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.name) != null ? _i : "collection-full-width___en",
+    path: (_j = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.path) != null ? _j : "/collection/full-width",
+    file: "/home/sp07/vue/templatian/pages/collection/full-width.vue",
     children: [],
     meta: __nuxt_page_meta$H,
     alias: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.alias) || [],
     redirect: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.redirect) || void 0,
-    component: () => import("./_nuxt/login.2a3aaa52.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/full-width.7dc57b8e.js").then((m) => m.default || m)
   },
   {
-    name: (_ya = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.name) != null ? _ya : "page-account-login___fr",
-    path: (_za = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.path) != null ? _za : "/fr/page/account/login",
-    file: "/home/sp07/vue/templatian/pages/page/account/login.vue",
+    name: (_k = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.name) != null ? _k : "collection-full-width___fr",
+    path: (_l = __nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.path) != null ? _l : "/fr/collection/full-width",
+    file: "/home/sp07/vue/templatian/pages/collection/full-width.vue",
     children: [],
     meta: __nuxt_page_meta$H,
     alias: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.alias) || [],
     redirect: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.redirect) || void 0,
-    component: () => import("./_nuxt/login.2a3aaa52.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/full-width.7dc57b8e.js").then((m) => m.default || m)
   },
   {
-    name: (_Aa = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.name) != null ? _Aa : "page-account-profile___en",
-    path: (_Ba = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.path) != null ? _Ba : "/page/account/profile",
-    file: "/home/sp07/vue/templatian/pages/page/account/profile.vue",
+    name: (_m = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.name) != null ? _m : "collection-leftsidebar-id___en",
+    path: (_n = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.path) != null ? _n : "/collection/leftsidebar/:id",
+    file: "/home/sp07/vue/templatian/pages/collection/leftsidebar/[id].vue",
     children: [],
     meta: __nuxt_page_meta$G,
     alias: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.alias) || [],
     redirect: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.redirect) || void 0,
-    component: () => import("./_nuxt/profile.744d459f.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/_id_.fcce87d1.js").then((m) => m.default || m)
   },
   {
-    name: (_Ca = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.name) != null ? _Ca : "page-account-profile___fr",
-    path: (_Da = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.path) != null ? _Da : "/fr/page/account/profile",
-    file: "/home/sp07/vue/templatian/pages/page/account/profile.vue",
+    name: (_o = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.name) != null ? _o : "collection-leftsidebar-id___fr",
+    path: (_p = __nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.path) != null ? _p : "/fr/collection/leftsidebar/:id",
+    file: "/home/sp07/vue/templatian/pages/collection/leftsidebar/[id].vue",
     children: [],
     meta: __nuxt_page_meta$G,
     alias: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.alias) || [],
     redirect: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.redirect) || void 0,
-    component: () => import("./_nuxt/profile.744d459f.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/_id_.fcce87d1.js").then((m) => m.default || m)
   },
   {
-    name: (_Ea = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.name) != null ? _Ea : "page-account-register___en",
-    path: (_Fa = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.path) != null ? _Fa : "/page/account/register",
-    file: "/home/sp07/vue/templatian/pages/page/account/register.vue",
+    name: (_q = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.name) != null ? _q : "collection-list-view___en",
+    path: (_r = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.path) != null ? _r : "/collection/list-view",
+    file: "/home/sp07/vue/templatian/pages/collection/list-view.vue",
     children: [],
     meta: __nuxt_page_meta$F,
     alias: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.alias) || [],
     redirect: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.redirect) || void 0,
-    component: () => import("./_nuxt/register.deab58a2.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/list-view.e79eb7cc.js").then((m) => m.default || m)
   },
   {
-    name: (_Ga = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.name) != null ? _Ga : "page-account-register___fr",
-    path: (_Ha = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.path) != null ? _Ha : "/fr/page/account/register",
-    file: "/home/sp07/vue/templatian/pages/page/account/register.vue",
+    name: (_s = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.name) != null ? _s : "collection-list-view___fr",
+    path: (_t = __nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.path) != null ? _t : "/fr/collection/list-view",
+    file: "/home/sp07/vue/templatian/pages/collection/list-view.vue",
     children: [],
     meta: __nuxt_page_meta$F,
     alias: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.alias) || [],
     redirect: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.redirect) || void 0,
-    component: () => import("./_nuxt/register.deab58a2.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/list-view.e79eb7cc.js").then((m) => m.default || m)
   },
   {
-    name: (_Ia = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.name) != null ? _Ia : "page-account-wishlist___en",
-    path: (_Ja = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.path) != null ? _Ja : "/page/account/wishlist",
-    file: "/home/sp07/vue/templatian/pages/page/account/wishlist.vue",
+    name: (_u = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.name) != null ? _u : "collection-metro___en",
+    path: (_v = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.path) != null ? _v : "/collection/metro",
+    file: "/home/sp07/vue/templatian/pages/collection/metro.vue",
     children: [],
     meta: __nuxt_page_meta$E,
     alias: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.alias) || [],
     redirect: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.redirect) || void 0,
-    component: () => import("./_nuxt/wishlist.d39e413b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/metro.c7851367.js").then((m) => m.default || m)
   },
   {
-    name: (_Ka = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.name) != null ? _Ka : "page-account-wishlist___fr",
-    path: (_La = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.path) != null ? _La : "/fr/page/account/wishlist",
-    file: "/home/sp07/vue/templatian/pages/page/account/wishlist.vue",
+    name: (_w = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.name) != null ? _w : "collection-metro___fr",
+    path: (_x = __nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.path) != null ? _x : "/fr/collection/metro",
+    file: "/home/sp07/vue/templatian/pages/collection/metro.vue",
     children: [],
     meta: __nuxt_page_meta$E,
     alias: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.alias) || [],
     redirect: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.redirect) || void 0,
-    component: () => import("./_nuxt/wishlist.d39e413b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/metro.c7851367.js").then((m) => m.default || m)
   },
   {
-    name: (_Ma = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.name) != null ? _Ma : "page-auth-auth___en",
-    path: (_Na = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.path) != null ? _Na : "/page/auth/auth",
-    file: "/home/sp07/vue/templatian/pages/page/auth/auth.js",
+    name: (_y = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.name) != null ? _y : "collection-no-sidebar___en",
+    path: (_z = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.path) != null ? _z : "/collection/no-sidebar",
+    file: "/home/sp07/vue/templatian/pages/collection/no-sidebar.vue",
     children: [],
     meta: __nuxt_page_meta$D,
     alias: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.alias) || [],
     redirect: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.redirect) || void 0,
-    component: () => import("./_nuxt/auth.cf39980f.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/no-sidebar.34315a8a.js").then((m) => m.default || m)
   },
   {
-    name: (_Oa = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.name) != null ? _Oa : "page-auth-auth___fr",
-    path: (_Pa = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.path) != null ? _Pa : "/fr/page/auth/auth",
-    file: "/home/sp07/vue/templatian/pages/page/auth/auth.js",
+    name: (_A = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.name) != null ? _A : "collection-no-sidebar___fr",
+    path: (_B = __nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.path) != null ? _B : "/fr/collection/no-sidebar",
+    file: "/home/sp07/vue/templatian/pages/collection/no-sidebar.vue",
     children: [],
     meta: __nuxt_page_meta$D,
     alias: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.alias) || [],
     redirect: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.redirect) || void 0,
-    component: () => import("./_nuxt/auth.cf39980f.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/no-sidebar.34315a8a.js").then((m) => m.default || m)
   },
   {
-    name: (_Qa = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.name) != null ? _Qa : "page-collection___en",
-    path: (_Ra = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.path) != null ? _Ra : "/page/collection",
-    file: "/home/sp07/vue/templatian/pages/page/collection.vue",
+    name: (_C = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.name) != null ? _C : "collection-right-sidebar___en",
+    path: (_D = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.path) != null ? _D : "/collection/right-sidebar",
+    file: "/home/sp07/vue/templatian/pages/collection/right-sidebar.vue",
     children: [],
     meta: __nuxt_page_meta$C,
     alias: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.alias) || [],
     redirect: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.redirect) || void 0,
-    component: () => import("./_nuxt/collection.2bcf4a79.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/right-sidebar.2876e9dc.js").then((m) => m.default || m)
   },
   {
-    name: (_Sa = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.name) != null ? _Sa : "page-collection___fr",
-    path: (_Ta = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.path) != null ? _Ta : "/fr/page/collection",
-    file: "/home/sp07/vue/templatian/pages/page/collection.vue",
+    name: (_E = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.name) != null ? _E : "collection-right-sidebar___fr",
+    path: (_F = __nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.path) != null ? _F : "/fr/collection/right-sidebar",
+    file: "/home/sp07/vue/templatian/pages/collection/right-sidebar.vue",
     children: [],
     meta: __nuxt_page_meta$C,
     alias: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.alias) || [],
     redirect: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.redirect) || void 0,
-    component: () => import("./_nuxt/collection.2bcf4a79.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/right-sidebar.2876e9dc.js").then((m) => m.default || m)
   },
   {
-    name: (_Ua = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.name) != null ? _Ua : "page-coming-soon___en",
-    path: (_Va = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.path) != null ? _Va : "/page/coming-soon",
-    file: "/home/sp07/vue/templatian/pages/page/coming-soon.vue",
+    name: (_G = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.name) != null ? _G : "collection-sidebar-popup___en",
+    path: (_H = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.path) != null ? _H : "/collection/sidebar-popup",
+    file: "/home/sp07/vue/templatian/pages/collection/sidebar-popup.vue",
     children: [],
     meta: __nuxt_page_meta$B,
     alias: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.alias) || [],
     redirect: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.redirect) || void 0,
-    component: () => import("./_nuxt/coming-soon.817e6fdd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/sidebar-popup.14a786c6.js").then((m) => m.default || m)
   },
   {
-    name: (_Wa = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.name) != null ? _Wa : "page-coming-soon___fr",
-    path: (_Xa = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.path) != null ? _Xa : "/fr/page/coming-soon",
-    file: "/home/sp07/vue/templatian/pages/page/coming-soon.vue",
+    name: (_I = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.name) != null ? _I : "collection-sidebar-popup___fr",
+    path: (_J = __nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.path) != null ? _J : "/fr/collection/sidebar-popup",
+    file: "/home/sp07/vue/templatian/pages/collection/sidebar-popup.vue",
     children: [],
     meta: __nuxt_page_meta$B,
     alias: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.alias) || [],
     redirect: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.redirect) || void 0,
-    component: () => import("./_nuxt/coming-soon.817e6fdd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/sidebar-popup.14a786c6.js").then((m) => m.default || m)
   },
   {
-    name: (_Ya = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.name) != null ? _Ya : "page-compare-compare-1___en",
-    path: (_Za = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.path) != null ? _Za : "/page/compare/compare-1",
-    file: "/home/sp07/vue/templatian/pages/page/compare/compare-1.vue",
+    name: (_K = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.name) != null ? _K : "collection-six-grid___en",
+    path: (_L = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.path) != null ? _L : "/collection/six-grid",
+    file: "/home/sp07/vue/templatian/pages/collection/six-grid.vue",
     children: [],
     meta: __nuxt_page_meta$A,
     alias: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.alias) || [],
     redirect: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.redirect) || void 0,
-    component: () => import("./_nuxt/compare-1.a09b729a.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/six-grid.593bb484.js").then((m) => m.default || m)
   },
   {
-    name: (__a = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.name) != null ? __a : "page-compare-compare-1___fr",
-    path: (_$a = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.path) != null ? _$a : "/fr/page/compare/compare-1",
-    file: "/home/sp07/vue/templatian/pages/page/compare/compare-1.vue",
+    name: (_M = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.name) != null ? _M : "collection-six-grid___fr",
+    path: (_N = __nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.path) != null ? _N : "/fr/collection/six-grid",
+    file: "/home/sp07/vue/templatian/pages/collection/six-grid.vue",
     children: [],
     meta: __nuxt_page_meta$A,
     alias: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.alias) || [],
     redirect: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.redirect) || void 0,
-    component: () => import("./_nuxt/compare-1.a09b729a.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/six-grid.593bb484.js").then((m) => m.default || m)
   },
   {
-    name: (_ab = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.name) != null ? _ab : "page-compare-compare-2___en",
-    path: (_bb = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.path) != null ? _bb : "/page/compare/compare-2",
-    file: "/home/sp07/vue/templatian/pages/page/compare/compare-2.vue",
+    name: (_O = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.name) != null ? _O : "collection-three-grid___en",
+    path: (_P = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.path) != null ? _P : "/collection/three-grid",
+    file: "/home/sp07/vue/templatian/pages/collection/three-grid.vue",
     children: [],
     meta: __nuxt_page_meta$z,
     alias: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.alias) || [],
     redirect: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.redirect) || void 0,
-    component: () => import("./_nuxt/compare-2.a3447c36.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/three-grid.437fbbc5.js").then((m) => m.default || m)
   },
   {
-    name: (_cb = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.name) != null ? _cb : "page-compare-compare-2___fr",
-    path: (_db = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.path) != null ? _db : "/fr/page/compare/compare-2",
-    file: "/home/sp07/vue/templatian/pages/page/compare/compare-2.vue",
+    name: (_Q = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.name) != null ? _Q : "collection-three-grid___fr",
+    path: (_R = __nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.path) != null ? _R : "/fr/collection/three-grid",
+    file: "/home/sp07/vue/templatian/pages/collection/three-grid.vue",
     children: [],
     meta: __nuxt_page_meta$z,
     alias: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.alias) || [],
     redirect: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.redirect) || void 0,
-    component: () => import("./_nuxt/compare-2.a3447c36.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/three-grid.437fbbc5.js").then((m) => m.default || m)
   },
   {
-    name: (_eb = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.name) != null ? _eb : "page-element-banner___en",
-    path: (_fb = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.path) != null ? _fb : "/page/element/banner",
-    file: "/home/sp07/vue/templatian/pages/page/element/banner.vue",
+    name: (_S = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.name) != null ? _S : "index___en",
+    path: (_T = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.path) != null ? _T : "/",
+    file: "/home/sp07/vue/templatian/pages/index.vue",
     children: [],
     meta: __nuxt_page_meta$y,
     alias: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.alias) || [],
     redirect: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.redirect) || void 0,
-    component: () => import("./_nuxt/banner.8f911373.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index.7650f2e6.js").then((m) => m.default || m)
   },
   {
-    name: (_gb = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.name) != null ? _gb : "page-element-banner___fr",
-    path: (_hb = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.path) != null ? _hb : "/fr/page/element/banner",
-    file: "/home/sp07/vue/templatian/pages/page/element/banner.vue",
+    name: (_U = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.name) != null ? _U : "index___fr",
+    path: (_V = __nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.path) != null ? _V : "/fr",
+    file: "/home/sp07/vue/templatian/pages/index.vue",
     children: [],
     meta: __nuxt_page_meta$y,
     alias: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.alias) || [],
     redirect: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.redirect) || void 0,
-    component: () => import("./_nuxt/banner.8f911373.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index.7650f2e6.js").then((m) => m.default || m)
   },
   {
-    name: (_ib = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.name) != null ? _ib : "page-element-category___en",
-    path: (_jb = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.path) != null ? _jb : "/page/element/category",
-    file: "/home/sp07/vue/templatian/pages/page/element/category.vue",
+    name: (_W = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.name) != null ? _W : "page-404___en",
+    path: (_X = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.path) != null ? _X : "/page/404",
+    file: "/home/sp07/vue/templatian/pages/page/404.vue",
     children: [],
     meta: __nuxt_page_meta$x,
     alias: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.alias) || [],
     redirect: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.redirect) || void 0,
-    component: () => import("./_nuxt/category.f0430ee0.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/404.16fc40ba.js").then((m) => m.default || m)
   },
   {
-    name: (_kb = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.name) != null ? _kb : "page-element-category___fr",
-    path: (_lb = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.path) != null ? _lb : "/fr/page/element/category",
-    file: "/home/sp07/vue/templatian/pages/page/element/category.vue",
+    name: (_Y = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.name) != null ? _Y : "page-404___fr",
+    path: (_Z = __nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.path) != null ? _Z : "/fr/page/404",
+    file: "/home/sp07/vue/templatian/pages/page/404.vue",
     children: [],
     meta: __nuxt_page_meta$x,
     alias: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.alias) || [],
     redirect: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.redirect) || void 0,
-    component: () => import("./_nuxt/category.f0430ee0.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/404.16fc40ba.js").then((m) => m.default || m)
   },
   {
-    name: (_mb = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.name) != null ? _mb : "page-element-collection-banner___en",
-    path: (_nb = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.path) != null ? _nb : "/page/element/collection-banner",
-    file: "/home/sp07/vue/templatian/pages/page/element/collection-banner.vue",
+    name: (__ = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.name) != null ? __ : "page-about___en",
+    path: (_$ = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.path) != null ? _$ : "/page/about",
+    file: "/home/sp07/vue/templatian/pages/page/about.vue",
     children: [],
     meta: __nuxt_page_meta$w,
     alias: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.alias) || [],
     redirect: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.redirect) || void 0,
-    component: () => import("./_nuxt/collection-banner.2ba123bd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/about.7e5b5f78.js").then((m) => m.default || m)
   },
   {
-    name: (_ob = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.name) != null ? _ob : "page-element-collection-banner___fr",
-    path: (_pb = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.path) != null ? _pb : "/fr/page/element/collection-banner",
-    file: "/home/sp07/vue/templatian/pages/page/element/collection-banner.vue",
+    name: (_aa = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.name) != null ? _aa : "page-about___fr",
+    path: (_ba = __nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.path) != null ? _ba : "/fr/page/about",
+    file: "/home/sp07/vue/templatian/pages/page/about.vue",
     children: [],
     meta: __nuxt_page_meta$w,
     alias: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.alias) || [],
     redirect: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.redirect) || void 0,
-    component: () => import("./_nuxt/collection-banner.2ba123bd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/about.7e5b5f78.js").then((m) => m.default || m)
   },
   {
-    name: (_qb = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.name) != null ? _qb : "page-element-home-slider___en",
-    path: (_rb = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.path) != null ? _rb : "/page/element/home-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/home-slider.vue",
+    name: (_ca = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.name) != null ? _ca : "page-account-cart___en",
+    path: (_da = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.path) != null ? _da : "/page/account/cart",
+    file: "/home/sp07/vue/templatian/pages/page/account/cart.vue",
     children: [],
     meta: __nuxt_page_meta$v,
     alias: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.alias) || [],
     redirect: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.redirect) || void 0,
-    component: () => import("./_nuxt/home-slider.5afa3c13.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/cart.7e04f0de.js").then((m) => m.default || m)
   },
   {
-    name: (_sb = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.name) != null ? _sb : "page-element-home-slider___fr",
-    path: (_tb = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.path) != null ? _tb : "/fr/page/element/home-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/home-slider.vue",
+    name: (_ea = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.name) != null ? _ea : "page-account-cart___fr",
+    path: (_fa = __nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.path) != null ? _fa : "/fr/page/account/cart",
+    file: "/home/sp07/vue/templatian/pages/page/account/cart.vue",
     children: [],
     meta: __nuxt_page_meta$v,
     alias: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.alias) || [],
     redirect: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.redirect) || void 0,
-    component: () => import("./_nuxt/home-slider.5afa3c13.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/cart.7e04f0de.js").then((m) => m.default || m)
   },
   {
-    name: (_ub = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.name) != null ? _ub : "page-element-logo-slider___en",
-    path: (_vb = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.path) != null ? _vb : "/page/element/logo-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/logo-slider.vue",
+    name: (_ga = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.name) != null ? _ga : "page-account-checkout___en",
+    path: (_ha = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.path) != null ? _ha : "/page/account/checkout",
+    file: "/home/sp07/vue/templatian/pages/page/account/checkout.vue",
     children: [],
     meta: __nuxt_page_meta$u,
     alias: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.alias) || [],
     redirect: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.redirect) || void 0,
-    component: () => import("./_nuxt/logo-slider.16633a6d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/checkout.b05970d0.js").then((m) => m.default || m)
   },
   {
-    name: (_wb = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.name) != null ? _wb : "page-element-logo-slider___fr",
-    path: (_xb = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.path) != null ? _xb : "/fr/page/element/logo-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/logo-slider.vue",
+    name: (_ia = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.name) != null ? _ia : "page-account-checkout___fr",
+    path: (_ja = __nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.path) != null ? _ja : "/fr/page/account/checkout",
+    file: "/home/sp07/vue/templatian/pages/page/account/checkout.vue",
     children: [],
     meta: __nuxt_page_meta$u,
     alias: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.alias) || [],
     redirect: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.redirect) || void 0,
-    component: () => import("./_nuxt/logo-slider.16633a6d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/checkout.b05970d0.js").then((m) => m.default || m)
   },
   {
-    name: (_yb = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.name) != null ? _yb : "page-element-multi-slider___en",
-    path: (_zb = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.path) != null ? _zb : "/page/element/multi-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/multi-slider.vue",
+    name: (_ka = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.name) != null ? _ka : "page-account-contact___en",
+    path: (_la = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.path) != null ? _la : "/page/account/contact",
+    file: "/home/sp07/vue/templatian/pages/page/account/contact.vue",
     children: [],
     meta: __nuxt_page_meta$t,
     alias: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.alias) || [],
     redirect: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.redirect) || void 0,
-    component: () => import("./_nuxt/multi-slider.645c2a54.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/contact.a449197a.js").then((m) => m.default || m)
   },
   {
-    name: (_Ab = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.name) != null ? _Ab : "page-element-multi-slider___fr",
-    path: (_Bb = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.path) != null ? _Bb : "/fr/page/element/multi-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/multi-slider.vue",
+    name: (_ma = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.name) != null ? _ma : "page-account-contact___fr",
+    path: (_na = __nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.path) != null ? _na : "/fr/page/account/contact",
+    file: "/home/sp07/vue/templatian/pages/page/account/contact.vue",
     children: [],
     meta: __nuxt_page_meta$t,
     alias: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.alias) || [],
     redirect: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.redirect) || void 0,
-    component: () => import("./_nuxt/multi-slider.645c2a54.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/contact.a449197a.js").then((m) => m.default || m)
   },
   {
-    name: (_Cb = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.name) != null ? _Cb : "page-element-product-slider___en",
-    path: (_Db = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.path) != null ? _Db : "/page/element/product-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/product-slider.vue",
+    name: (_oa = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.name) != null ? _oa : "page-account-dashboard___en",
+    path: (_pa = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.path) != null ? _pa : "/page/account/dashboard",
+    file: "/home/sp07/vue/templatian/pages/page/account/dashboard.vue",
     children: [],
     meta: __nuxt_page_meta$s,
     alias: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.alias) || [],
     redirect: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.redirect) || void 0,
-    component: () => import("./_nuxt/product-slider.29dfa39d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/dashboard.5ff7bf3e.js").then((m) => m.default || m)
   },
   {
-    name: (_Eb = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.name) != null ? _Eb : "page-element-product-slider___fr",
-    path: (_Fb = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.path) != null ? _Fb : "/fr/page/element/product-slider",
-    file: "/home/sp07/vue/templatian/pages/page/element/product-slider.vue",
+    name: (_qa = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.name) != null ? _qa : "page-account-dashboard___fr",
+    path: (_ra = __nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.path) != null ? _ra : "/fr/page/account/dashboard",
+    file: "/home/sp07/vue/templatian/pages/page/account/dashboard.vue",
     children: [],
     meta: __nuxt_page_meta$s,
     alias: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.alias) || [],
     redirect: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.redirect) || void 0,
-    component: () => import("./_nuxt/product-slider.29dfa39d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/dashboard.5ff7bf3e.js").then((m) => m.default || m)
   },
   {
-    name: (_Gb = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.name) != null ? _Gb : "page-element-product-tabs___en",
-    path: (_Hb = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.path) != null ? _Hb : "/page/element/product-tabs",
-    file: "/home/sp07/vue/templatian/pages/page/element/product-tabs.vue",
+    name: (_sa = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.name) != null ? _sa : "page-account-forget-password___en",
+    path: (_ta = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.path) != null ? _ta : "/page/account/forget-password",
+    file: "/home/sp07/vue/templatian/pages/page/account/forget-password.vue",
     children: [],
     meta: __nuxt_page_meta$r,
     alias: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.alias) || [],
     redirect: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.redirect) || void 0,
-    component: () => import("./_nuxt/product-tabs.1a13acf7.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/forget-password.0357a8f8.js").then((m) => m.default || m)
   },
   {
-    name: (_Ib = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.name) != null ? _Ib : "page-element-product-tabs___fr",
-    path: (_Jb = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.path) != null ? _Jb : "/fr/page/element/product-tabs",
-    file: "/home/sp07/vue/templatian/pages/page/element/product-tabs.vue",
+    name: (_ua = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.name) != null ? _ua : "page-account-forget-password___fr",
+    path: (_va = __nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.path) != null ? _va : "/fr/page/account/forget-password",
+    file: "/home/sp07/vue/templatian/pages/page/account/forget-password.vue",
     children: [],
     meta: __nuxt_page_meta$r,
     alias: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.alias) || [],
     redirect: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.redirect) || void 0,
-    component: () => import("./_nuxt/product-tabs.1a13acf7.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/forget-password.0357a8f8.js").then((m) => m.default || m)
   },
   {
-    name: (_Kb = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.name) != null ? _Kb : "page-element-service___en",
-    path: (_Lb = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.path) != null ? _Lb : "/page/element/service",
-    file: "/home/sp07/vue/templatian/pages/page/element/service.vue",
+    name: (_wa = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.name) != null ? _wa : "page-account-login___en",
+    path: (_xa = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.path) != null ? _xa : "/page/account/login",
+    file: "/home/sp07/vue/templatian/pages/page/account/login.vue",
     children: [],
     meta: __nuxt_page_meta$q,
     alias: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.alias) || [],
     redirect: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.redirect) || void 0,
-    component: () => import("./_nuxt/service.89546a7a.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/login.5eb15851.js").then((m) => m.default || m)
   },
   {
-    name: (_Mb = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.name) != null ? _Mb : "page-element-service___fr",
-    path: (_Nb = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.path) != null ? _Nb : "/fr/page/element/service",
-    file: "/home/sp07/vue/templatian/pages/page/element/service.vue",
+    name: (_ya = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.name) != null ? _ya : "page-account-login___fr",
+    path: (_za = __nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.path) != null ? _za : "/fr/page/account/login",
+    file: "/home/sp07/vue/templatian/pages/page/account/login.vue",
     children: [],
     meta: __nuxt_page_meta$q,
     alias: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.alias) || [],
     redirect: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.redirect) || void 0,
-    component: () => import("./_nuxt/service.89546a7a.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/login.5eb15851.js").then((m) => m.default || m)
   },
   {
-    name: (_Ob = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.name) != null ? _Ob : "page-faq___en",
-    path: (_Pb = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.path) != null ? _Pb : "/page/faq",
-    file: "/home/sp07/vue/templatian/pages/page/faq.vue",
+    name: (_Aa = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.name) != null ? _Aa : "page-account-profile___en",
+    path: (_Ba = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.path) != null ? _Ba : "/page/account/profile",
+    file: "/home/sp07/vue/templatian/pages/page/account/profile.vue",
     children: [],
     meta: __nuxt_page_meta$p,
     alias: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.alias) || [],
     redirect: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.redirect) || void 0,
-    component: () => import("./_nuxt/faq.040ef31c.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/profile.a1cda65d.js").then((m) => m.default || m)
   },
   {
-    name: (_Qb = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.name) != null ? _Qb : "page-faq___fr",
-    path: (_Rb = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.path) != null ? _Rb : "/fr/page/faq",
-    file: "/home/sp07/vue/templatian/pages/page/faq.vue",
+    name: (_Ca = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.name) != null ? _Ca : "page-account-profile___fr",
+    path: (_Da = __nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.path) != null ? _Da : "/fr/page/account/profile",
+    file: "/home/sp07/vue/templatian/pages/page/account/profile.vue",
     children: [],
     meta: __nuxt_page_meta$p,
     alias: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.alias) || [],
     redirect: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.redirect) || void 0,
-    component: () => import("./_nuxt/faq.040ef31c.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/profile.a1cda65d.js").then((m) => m.default || m)
   },
   {
-    name: (_Sb = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.name) != null ? _Sb : "page-lookbook___en",
-    path: (_Tb = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.path) != null ? _Tb : "/page/lookbook",
-    file: "/home/sp07/vue/templatian/pages/page/lookbook.vue",
+    name: (_Ea = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.name) != null ? _Ea : "page-account-register___en",
+    path: (_Fa = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.path) != null ? _Fa : "/page/account/register",
+    file: "/home/sp07/vue/templatian/pages/page/account/register.vue",
     children: [],
     meta: __nuxt_page_meta$o,
     alias: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.alias) || [],
     redirect: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.redirect) || void 0,
-    component: () => import("./_nuxt/lookbook.61a02ec1.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/register.5d38ffba.js").then((m) => m.default || m)
   },
   {
-    name: (_Ub = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.name) != null ? _Ub : "page-lookbook___fr",
-    path: (_Vb = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.path) != null ? _Vb : "/fr/page/lookbook",
-    file: "/home/sp07/vue/templatian/pages/page/lookbook.vue",
+    name: (_Ga = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.name) != null ? _Ga : "page-account-register___fr",
+    path: (_Ha = __nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.path) != null ? _Ha : "/fr/page/account/register",
+    file: "/home/sp07/vue/templatian/pages/page/account/register.vue",
     children: [],
     meta: __nuxt_page_meta$o,
     alias: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.alias) || [],
     redirect: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.redirect) || void 0,
-    component: () => import("./_nuxt/lookbook.61a02ec1.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/register.5d38ffba.js").then((m) => m.default || m)
   },
   {
-    name: (_Wb = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.name) != null ? _Wb : "page-order-success___en",
-    path: (_Xb = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.path) != null ? _Xb : "/page/order-success",
-    file: "/home/sp07/vue/templatian/pages/page/order-success.vue",
+    name: (_Ia = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.name) != null ? _Ia : "page-account-wishlist___en",
+    path: (_Ja = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.path) != null ? _Ja : "/page/account/wishlist",
+    file: "/home/sp07/vue/templatian/pages/page/account/wishlist.vue",
     children: [],
     meta: __nuxt_page_meta$n,
     alias: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.alias) || [],
     redirect: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.redirect) || void 0,
-    component: () => import("./_nuxt/order-success.f82f7634.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/wishlist.e6d57a23.js").then((m) => m.default || m)
   },
   {
-    name: (_Yb = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.name) != null ? _Yb : "page-order-success___fr",
-    path: (_Zb = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.path) != null ? _Zb : "/fr/page/order-success",
-    file: "/home/sp07/vue/templatian/pages/page/order-success.vue",
+    name: (_Ka = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.name) != null ? _Ka : "page-account-wishlist___fr",
+    path: (_La = __nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.path) != null ? _La : "/fr/page/account/wishlist",
+    file: "/home/sp07/vue/templatian/pages/page/account/wishlist.vue",
     children: [],
     meta: __nuxt_page_meta$n,
     alias: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.alias) || [],
     redirect: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.redirect) || void 0,
-    component: () => import("./_nuxt/order-success.f82f7634.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/wishlist.e6d57a23.js").then((m) => m.default || m)
   },
   {
-    name: (__b = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.name) != null ? __b : "page-portfolio-masonary-fullwidth___en",
-    path: (_$b = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.path) != null ? _$b : "/page/portfolio/masonary-fullwidth",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/masonary-fullwidth.vue",
+    name: (_Ma = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.name) != null ? _Ma : "page-auth-auth___en",
+    path: (_Na = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.path) != null ? _Na : "/page/auth/auth",
+    file: "/home/sp07/vue/templatian/pages/page/auth/auth.js",
     children: [],
     meta: __nuxt_page_meta$m,
     alias: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.alias) || [],
     redirect: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.redirect) || void 0,
-    component: () => import("./_nuxt/masonary-fullwidth.c59f9fad.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/auth.701a9ec2.js").then((m) => m.default || m)
   },
   {
-    name: (_ac = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.name) != null ? _ac : "page-portfolio-masonary-fullwidth___fr",
-    path: (_bc = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.path) != null ? _bc : "/fr/page/portfolio/masonary-fullwidth",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/masonary-fullwidth.vue",
+    name: (_Oa = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.name) != null ? _Oa : "page-auth-auth___fr",
+    path: (_Pa = __nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.path) != null ? _Pa : "/fr/page/auth/auth",
+    file: "/home/sp07/vue/templatian/pages/page/auth/auth.js",
     children: [],
     meta: __nuxt_page_meta$m,
     alias: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.alias) || [],
     redirect: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.redirect) || void 0,
-    component: () => import("./_nuxt/masonary-fullwidth.c59f9fad.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/auth.701a9ec2.js").then((m) => m.default || m)
   },
   {
-    name: (_cc = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.name) != null ? _cc : "page-portfolio-mesonary-grid-2___en",
-    path: (_dc = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.path) != null ? _dc : "/page/portfolio/mesonary-grid-2",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/mesonary-grid-2.vue",
+    name: (_Qa = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.name) != null ? _Qa : "page-collection___en",
+    path: (_Ra = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.path) != null ? _Ra : "/page/collection",
+    file: "/home/sp07/vue/templatian/pages/page/collection.vue",
     children: [],
     meta: __nuxt_page_meta$l,
     alias: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.alias) || [],
     redirect: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.redirect) || void 0,
-    component: () => import("./_nuxt/mesonary-grid-2.561d7261.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/collection.c11bd86f.js").then((m) => m.default || m)
   },
   {
-    name: (_ec = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.name) != null ? _ec : "page-portfolio-mesonary-grid-2___fr",
-    path: (_fc = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.path) != null ? _fc : "/fr/page/portfolio/mesonary-grid-2",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/mesonary-grid-2.vue",
+    name: (_Sa = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.name) != null ? _Sa : "page-collection___fr",
+    path: (_Ta = __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.path) != null ? _Ta : "/fr/page/collection",
+    file: "/home/sp07/vue/templatian/pages/page/collection.vue",
     children: [],
     meta: __nuxt_page_meta$l,
     alias: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.alias) || [],
     redirect: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.redirect) || void 0,
-    component: () => import("./_nuxt/mesonary-grid-2.561d7261.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/collection.c11bd86f.js").then((m) => m.default || m)
   },
   {
-    name: (_gc = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.name) != null ? _gc : "page-portfolio-mesonary-grid-3___en",
-    path: (_hc = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.path) != null ? _hc : "/page/portfolio/mesonary-grid-3",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/mesonary-grid-3.vue",
+    name: (_Ua = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.name) != null ? _Ua : "page-coming-soon___en",
+    path: (_Va = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.path) != null ? _Va : "/page/coming-soon",
+    file: "/home/sp07/vue/templatian/pages/page/coming-soon.vue",
     children: [],
     meta: __nuxt_page_meta$k,
     alias: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.alias) || [],
     redirect: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.redirect) || void 0,
-    component: () => import("./_nuxt/mesonary-grid-3.2d368bfd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/coming-soon.cfb87fdb.js").then((m) => m.default || m)
   },
   {
-    name: (_ic = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.name) != null ? _ic : "page-portfolio-mesonary-grid-3___fr",
-    path: (_jc = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.path) != null ? _jc : "/fr/page/portfolio/mesonary-grid-3",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/mesonary-grid-3.vue",
+    name: (_Wa = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.name) != null ? _Wa : "page-coming-soon___fr",
+    path: (_Xa = __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.path) != null ? _Xa : "/fr/page/coming-soon",
+    file: "/home/sp07/vue/templatian/pages/page/coming-soon.vue",
     children: [],
     meta: __nuxt_page_meta$k,
     alias: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.alias) || [],
     redirect: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.redirect) || void 0,
-    component: () => import("./_nuxt/mesonary-grid-3.2d368bfd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/coming-soon.cfb87fdb.js").then((m) => m.default || m)
   },
   {
-    name: (_kc = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.name) != null ? _kc : "page-portfolio-mesonary-grid-4___en",
-    path: (_lc = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.path) != null ? _lc : "/page/portfolio/mesonary-grid-4",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/mesonary-grid-4.vue",
+    name: (_Ya = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.name) != null ? _Ya : "page-compare-compare-1___en",
+    path: (_Za = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.path) != null ? _Za : "/page/compare/compare-1",
+    file: "/home/sp07/vue/templatian/pages/page/compare/compare-1.vue",
     children: [],
     meta: __nuxt_page_meta$j,
     alias: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.alias) || [],
     redirect: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.redirect) || void 0,
-    component: () => import("./_nuxt/mesonary-grid-4.ea46344b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/compare-1.5d2b14b9.js").then((m) => m.default || m)
   },
   {
-    name: (_mc = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.name) != null ? _mc : "page-portfolio-mesonary-grid-4___fr",
-    path: (_nc = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.path) != null ? _nc : "/fr/page/portfolio/mesonary-grid-4",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/mesonary-grid-4.vue",
+    name: (__a = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.name) != null ? __a : "page-compare-compare-1___fr",
+    path: (_$a = __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.path) != null ? _$a : "/fr/page/compare/compare-1",
+    file: "/home/sp07/vue/templatian/pages/page/compare/compare-1.vue",
     children: [],
     meta: __nuxt_page_meta$j,
     alias: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.alias) || [],
     redirect: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.redirect) || void 0,
-    component: () => import("./_nuxt/mesonary-grid-4.ea46344b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/compare-1.5d2b14b9.js").then((m) => m.default || m)
   },
   {
-    name: (_oc = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.name) != null ? _oc : "page-portfolio-portfolio-2-col___en",
-    path: (_pc = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.path) != null ? _pc : "/page/portfolio/portfolio-2-col",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/portfolio-2-col.vue",
+    name: (_ab = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.name) != null ? _ab : "page-element-banner___en",
+    path: (_bb = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.path) != null ? _bb : "/page/element/banner",
+    file: "/home/sp07/vue/templatian/pages/page/element/banner.vue",
     children: [],
     meta: __nuxt_page_meta$i,
     alias: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.alias) || [],
     redirect: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.redirect) || void 0,
-    component: () => import("./_nuxt/portfolio-2-col.c9e7d7c1.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/banner.e5c66c9a.js").then((m) => m.default || m)
   },
   {
-    name: (_qc = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.name) != null ? _qc : "page-portfolio-portfolio-2-col___fr",
-    path: (_rc = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.path) != null ? _rc : "/fr/page/portfolio/portfolio-2-col",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/portfolio-2-col.vue",
+    name: (_cb = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.name) != null ? _cb : "page-element-banner___fr",
+    path: (_db = __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.path) != null ? _db : "/fr/page/element/banner",
+    file: "/home/sp07/vue/templatian/pages/page/element/banner.vue",
     children: [],
     meta: __nuxt_page_meta$i,
     alias: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.alias) || [],
     redirect: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.redirect) || void 0,
-    component: () => import("./_nuxt/portfolio-2-col.c9e7d7c1.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/banner.e5c66c9a.js").then((m) => m.default || m)
   },
   {
-    name: (_sc = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.name) != null ? _sc : "page-portfolio-portfolio-3-col___en",
-    path: (_tc = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.path) != null ? _tc : "/page/portfolio/portfolio-3-col",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/portfolio-3-col.vue",
+    name: (_eb = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.name) != null ? _eb : "page-element-category___en",
+    path: (_fb = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.path) != null ? _fb : "/page/element/category",
+    file: "/home/sp07/vue/templatian/pages/page/element/category.vue",
     children: [],
     meta: __nuxt_page_meta$h,
     alias: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.alias) || [],
     redirect: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.redirect) || void 0,
-    component: () => import("./_nuxt/portfolio-3-col.a5f7ddf1.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/category.7300ccb4.js").then((m) => m.default || m)
   },
   {
-    name: (_uc = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.name) != null ? _uc : "page-portfolio-portfolio-3-col___fr",
-    path: (_vc = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.path) != null ? _vc : "/fr/page/portfolio/portfolio-3-col",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/portfolio-3-col.vue",
+    name: (_gb = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.name) != null ? _gb : "page-element-category___fr",
+    path: (_hb = __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.path) != null ? _hb : "/fr/page/element/category",
+    file: "/home/sp07/vue/templatian/pages/page/element/category.vue",
     children: [],
     meta: __nuxt_page_meta$h,
     alias: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.alias) || [],
     redirect: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.redirect) || void 0,
-    component: () => import("./_nuxt/portfolio-3-col.a5f7ddf1.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/category.7300ccb4.js").then((m) => m.default || m)
   },
   {
-    name: (_wc = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.name) != null ? _wc : "page-portfolio-portfolio-4-col___en",
-    path: (_xc = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.path) != null ? _xc : "/page/portfolio/portfolio-4-col",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/portfolio-4-col.vue",
+    name: (_ib = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.name) != null ? _ib : "page-element-collection-banner___en",
+    path: (_jb = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.path) != null ? _jb : "/page/element/collection-banner",
+    file: "/home/sp07/vue/templatian/pages/page/element/collection-banner.vue",
     children: [],
     meta: __nuxt_page_meta$g,
     alias: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.alias) || [],
     redirect: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.redirect) || void 0,
-    component: () => import("./_nuxt/portfolio-4-col.6cab346b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/collection-banner.b34542f6.js").then((m) => m.default || m)
   },
   {
-    name: (_yc = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.name) != null ? _yc : "page-portfolio-portfolio-4-col___fr",
-    path: (_zc = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.path) != null ? _zc : "/fr/page/portfolio/portfolio-4-col",
-    file: "/home/sp07/vue/templatian/pages/page/portfolio/portfolio-4-col.vue",
+    name: (_kb = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.name) != null ? _kb : "page-element-collection-banner___fr",
+    path: (_lb = __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.path) != null ? _lb : "/fr/page/element/collection-banner",
+    file: "/home/sp07/vue/templatian/pages/page/element/collection-banner.vue",
     children: [],
     meta: __nuxt_page_meta$g,
     alias: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.alias) || [],
     redirect: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.redirect) || void 0,
-    component: () => import("./_nuxt/portfolio-4-col.6cab346b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/collection-banner.b34542f6.js").then((m) => m.default || m)
   },
   {
-    name: (_Ac = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.name) != null ? _Ac : "page-review___en",
-    path: (_Bc = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.path) != null ? _Bc : "/page/review",
-    file: "/home/sp07/vue/templatian/pages/page/review.vue",
+    name: (_mb = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.name) != null ? _mb : "page-element-home-slider___en",
+    path: (_nb = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.path) != null ? _nb : "/page/element/home-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/home-slider.vue",
     children: [],
     meta: __nuxt_page_meta$f,
     alias: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.alias) || [],
     redirect: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.redirect) || void 0,
-    component: () => import("./_nuxt/review.ee0ae0ba.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/home-slider.64ef2dbd.js").then((m) => m.default || m)
   },
   {
-    name: (_Cc = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.name) != null ? _Cc : "page-review___fr",
-    path: (_Dc = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.path) != null ? _Dc : "/fr/page/review",
-    file: "/home/sp07/vue/templatian/pages/page/review.vue",
+    name: (_ob = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.name) != null ? _ob : "page-element-home-slider___fr",
+    path: (_pb = __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.path) != null ? _pb : "/fr/page/element/home-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/home-slider.vue",
     children: [],
     meta: __nuxt_page_meta$f,
     alias: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.alias) || [],
     redirect: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.redirect) || void 0,
-    component: () => import("./_nuxt/review.ee0ae0ba.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/home-slider.64ef2dbd.js").then((m) => m.default || m)
   },
   {
-    name: (_Ec = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.name) != null ? _Ec : "page-search___en",
-    path: (_Fc = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.path) != null ? _Fc : "/page/search",
-    file: "/home/sp07/vue/templatian/pages/page/search.vue",
+    name: (_qb = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.name) != null ? _qb : "page-element-logo-slider___en",
+    path: (_rb = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.path) != null ? _rb : "/page/element/logo-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/logo-slider.vue",
     children: [],
     meta: __nuxt_page_meta$e,
     alias: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.alias) || [],
     redirect: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.redirect) || void 0,
-    component: () => import("./_nuxt/search.87ce8325.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/logo-slider.831f500d.js").then((m) => m.default || m)
   },
   {
-    name: (_Gc = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.name) != null ? _Gc : "page-search___fr",
-    path: (_Hc = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.path) != null ? _Hc : "/fr/page/search",
-    file: "/home/sp07/vue/templatian/pages/page/search.vue",
+    name: (_sb = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.name) != null ? _sb : "page-element-logo-slider___fr",
+    path: (_tb = __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.path) != null ? _tb : "/fr/page/element/logo-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/logo-slider.vue",
     children: [],
     meta: __nuxt_page_meta$e,
     alias: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.alias) || [],
     redirect: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.redirect) || void 0,
-    component: () => import("./_nuxt/search.87ce8325.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/logo-slider.831f500d.js").then((m) => m.default || m)
   },
   {
-    name: (_Ic = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.name) != null ? _Ic : "page-sitemap___en",
-    path: (_Jc = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.path) != null ? _Jc : "/page/sitemap",
-    file: "/home/sp07/vue/templatian/pages/page/sitemap.vue",
+    name: (_ub = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.name) != null ? _ub : "page-element-multi-slider___en",
+    path: (_vb = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.path) != null ? _vb : "/page/element/multi-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/multi-slider.vue",
     children: [],
     meta: __nuxt_page_meta$d,
     alias: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.alias) || [],
     redirect: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.redirect) || void 0,
-    component: () => import("./_nuxt/sitemap.cf8aae88.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/multi-slider.e342c5a3.js").then((m) => m.default || m)
   },
   {
-    name: (_Kc = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.name) != null ? _Kc : "page-sitemap___fr",
-    path: (_Lc = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.path) != null ? _Lc : "/fr/page/sitemap",
-    file: "/home/sp07/vue/templatian/pages/page/sitemap.vue",
+    name: (_wb = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.name) != null ? _wb : "page-element-multi-slider___fr",
+    path: (_xb = __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.path) != null ? _xb : "/fr/page/element/multi-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/multi-slider.vue",
     children: [],
     meta: __nuxt_page_meta$d,
     alias: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.alias) || [],
     redirect: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.redirect) || void 0,
-    component: () => import("./_nuxt/sitemap.cf8aae88.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/multi-slider.e342c5a3.js").then((m) => m.default || m)
   },
   {
-    name: (_Mc = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) != null ? _Mc : "page-typography___en",
-    path: (_Nc = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.path) != null ? _Nc : "/page/typography",
-    file: "/home/sp07/vue/templatian/pages/page/typography.vue",
+    name: (_yb = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) != null ? _yb : "page-element-product-slider___en",
+    path: (_zb = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.path) != null ? _zb : "/page/element/product-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/product-slider.vue",
     children: [],
     meta: __nuxt_page_meta$c,
     alias: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.alias) || [],
     redirect: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.redirect) || void 0,
-    component: () => import("./_nuxt/typography.2ae229af.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/product-slider.4268f3b4.js").then((m) => m.default || m)
   },
   {
-    name: (_Oc = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) != null ? _Oc : "page-typography___fr",
-    path: (_Pc = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.path) != null ? _Pc : "/fr/page/typography",
-    file: "/home/sp07/vue/templatian/pages/page/typography.vue",
+    name: (_Ab = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) != null ? _Ab : "page-element-product-slider___fr",
+    path: (_Bb = __nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.path) != null ? _Bb : "/fr/page/element/product-slider",
+    file: "/home/sp07/vue/templatian/pages/page/element/product-slider.vue",
     children: [],
     meta: __nuxt_page_meta$c,
     alias: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.alias) || [],
     redirect: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.redirect) || void 0,
-    component: () => import("./_nuxt/typography.2ae229af.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/product-slider.4268f3b4.js").then((m) => m.default || m)
   },
   {
-    name: (_Qc = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.name) != null ? _Qc : "product-bundle-product___en",
-    path: (_Rc = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.path) != null ? _Rc : "/product/bundle-product",
-    file: "/home/sp07/vue/templatian/pages/product/bundle-product.vue",
+    name: (_Cb = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.name) != null ? _Cb : "page-element-product-tabs___en",
+    path: (_Db = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.path) != null ? _Db : "/page/element/product-tabs",
+    file: "/home/sp07/vue/templatian/pages/page/element/product-tabs.vue",
     children: [],
     meta: __nuxt_page_meta$b,
     alias: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.alias) || [],
     redirect: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.redirect) || void 0,
-    component: () => import("./_nuxt/bundle-product.e60b6733.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/product-tabs.a72be20f.js").then((m) => m.default || m)
   },
   {
-    name: (_Sc = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.name) != null ? _Sc : "product-bundle-product___fr",
-    path: (_Tc = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.path) != null ? _Tc : "/fr/product/bundle-product",
-    file: "/home/sp07/vue/templatian/pages/product/bundle-product.vue",
+    name: (_Eb = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.name) != null ? _Eb : "page-element-product-tabs___fr",
+    path: (_Fb = __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.path) != null ? _Fb : "/fr/page/element/product-tabs",
+    file: "/home/sp07/vue/templatian/pages/page/element/product-tabs.vue",
     children: [],
     meta: __nuxt_page_meta$b,
     alias: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.alias) || [],
     redirect: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.redirect) || void 0,
-    component: () => import("./_nuxt/bundle-product.e60b6733.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/product-tabs.a72be20f.js").then((m) => m.default || m)
   },
   {
-    name: (_Uc = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.name) != null ? _Uc : "product-four-image___en",
-    path: (_Vc = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.path) != null ? _Vc : "/product/four-image",
-    file: "/home/sp07/vue/templatian/pages/product/four-image.vue",
+    name: (_Gb = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.name) != null ? _Gb : "page-element-service___en",
+    path: (_Hb = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.path) != null ? _Hb : "/page/element/service",
+    file: "/home/sp07/vue/templatian/pages/page/element/service.vue",
     children: [],
     meta: __nuxt_page_meta$a,
     alias: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.alias) || [],
     redirect: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.redirect) || void 0,
-    component: () => import("./_nuxt/four-image.b710d49d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/service.ca19a7e4.js").then((m) => m.default || m)
   },
   {
-    name: (_Wc = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.name) != null ? _Wc : "product-four-image___fr",
-    path: (_Xc = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.path) != null ? _Xc : "/fr/product/four-image",
-    file: "/home/sp07/vue/templatian/pages/product/four-image.vue",
+    name: (_Ib = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.name) != null ? _Ib : "page-element-service___fr",
+    path: (_Jb = __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.path) != null ? _Jb : "/fr/page/element/service",
+    file: "/home/sp07/vue/templatian/pages/page/element/service.vue",
     children: [],
     meta: __nuxt_page_meta$a,
     alias: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.alias) || [],
     redirect: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.redirect) || void 0,
-    component: () => import("./_nuxt/four-image.b710d49d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/service.ca19a7e4.js").then((m) => m.default || m)
   },
   {
-    name: (_Yc = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.name) != null ? _Yc : "product-sidebar-id___en",
-    path: (_Zc = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.path) != null ? _Zc : "/product/sidebar/:id",
-    file: "/home/sp07/vue/templatian/pages/product/sidebar/[id].vue",
+    name: (_Kb = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.name) != null ? _Kb : "page-faq___en",
+    path: (_Lb = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.path) != null ? _Lb : "/page/faq",
+    file: "/home/sp07/vue/templatian/pages/page/faq.vue",
     children: [],
     meta: __nuxt_page_meta$9,
     alias: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.alias) || [],
     redirect: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.redirect) || void 0,
-    component: () => import("./_nuxt/_id_.298dad7d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/faq.692d4d27.js").then((m) => m.default || m)
   },
   {
-    name: (__c = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.name) != null ? __c : "product-sidebar-id___fr",
-    path: (_$c = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.path) != null ? _$c : "/fr/product/sidebar/:id",
-    file: "/home/sp07/vue/templatian/pages/product/sidebar/[id].vue",
+    name: (_Mb = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.name) != null ? _Mb : "page-faq___fr",
+    path: (_Nb = __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.path) != null ? _Nb : "/fr/page/faq",
+    file: "/home/sp07/vue/templatian/pages/page/faq.vue",
     children: [],
     meta: __nuxt_page_meta$9,
     alias: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.alias) || [],
     redirect: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.redirect) || void 0,
-    component: () => import("./_nuxt/_id_.298dad7d.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/faq.692d4d27.js").then((m) => m.default || m)
   },
   {
-    name: (_ad = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.name) != null ? _ad : "product-sidebar-no-sidebar___en",
-    path: (_bd = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.path) != null ? _bd : "/product/sidebar/no-sidebar",
-    file: "/home/sp07/vue/templatian/pages/product/sidebar/no-sidebar.vue",
+    name: (_Ob = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.name) != null ? _Ob : "page-lookbook___en",
+    path: (_Pb = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.path) != null ? _Pb : "/page/lookbook",
+    file: "/home/sp07/vue/templatian/pages/page/lookbook.vue",
     children: [],
     meta: __nuxt_page_meta$8,
     alias: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.alias) || [],
     redirect: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.redirect) || void 0,
-    component: () => import("./_nuxt/no-sidebar.3af9f33f.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/lookbook.eb646e31.js").then((m) => m.default || m)
   },
   {
-    name: (_cd = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.name) != null ? _cd : "product-sidebar-no-sidebar___fr",
-    path: (_dd = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.path) != null ? _dd : "/fr/product/sidebar/no-sidebar",
-    file: "/home/sp07/vue/templatian/pages/product/sidebar/no-sidebar.vue",
+    name: (_Qb = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.name) != null ? _Qb : "page-lookbook___fr",
+    path: (_Rb = __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.path) != null ? _Rb : "/fr/page/lookbook",
+    file: "/home/sp07/vue/templatian/pages/page/lookbook.vue",
     children: [],
     meta: __nuxt_page_meta$8,
     alias: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.alias) || [],
     redirect: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.redirect) || void 0,
-    component: () => import("./_nuxt/no-sidebar.3af9f33f.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/lookbook.eb646e31.js").then((m) => m.default || m)
   },
   {
-    name: (_ed = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.name) != null ? _ed : "product-sidebar-right-sidebar___en",
-    path: (_fd = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.path) != null ? _fd : "/product/sidebar/right-sidebar",
-    file: "/home/sp07/vue/templatian/pages/product/sidebar/right-sidebar.vue",
+    name: (_Sb = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.name) != null ? _Sb : "page-order-success___en",
+    path: (_Tb = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.path) != null ? _Tb : "/page/order-success",
+    file: "/home/sp07/vue/templatian/pages/page/order-success.vue",
     children: [],
     meta: __nuxt_page_meta$7,
     alias: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.alias) || [],
     redirect: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.redirect) || void 0,
-    component: () => import("./_nuxt/right-sidebar.cbec2e40.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/order-success.a489adfe.js").then((m) => m.default || m)
   },
   {
-    name: (_gd = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.name) != null ? _gd : "product-sidebar-right-sidebar___fr",
-    path: (_hd = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.path) != null ? _hd : "/fr/product/sidebar/right-sidebar",
-    file: "/home/sp07/vue/templatian/pages/product/sidebar/right-sidebar.vue",
+    name: (_Ub = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.name) != null ? _Ub : "page-order-success___fr",
+    path: (_Vb = __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.path) != null ? _Vb : "/fr/page/order-success",
+    file: "/home/sp07/vue/templatian/pages/page/order-success.vue",
     children: [],
     meta: __nuxt_page_meta$7,
     alias: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.alias) || [],
     redirect: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.redirect) || void 0,
-    component: () => import("./_nuxt/right-sidebar.cbec2e40.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/order-success.a489adfe.js").then((m) => m.default || m)
   },
   {
-    name: (_id = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.name) != null ? _id : "product-three-column-thumbnail-bottom___en",
-    path: (_jd = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.path) != null ? _jd : "/product/three-column/thumbnail-bottom",
-    file: "/home/sp07/vue/templatian/pages/product/three-column/thumbnail-bottom.vue",
+    name: (_Wb = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.name) != null ? _Wb : "page-portfolio-masonary-fullwidth___en",
+    path: (_Xb = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.path) != null ? _Xb : "/page/portfolio/masonary-fullwidth",
+    file: "/home/sp07/vue/templatian/pages/page/portfolio/masonary-fullwidth.vue",
     children: [],
     meta: __nuxt_page_meta$6,
     alias: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.alias) || [],
     redirect: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.redirect) || void 0,
-    component: () => import("./_nuxt/thumbnail-bottom.8d887850.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/masonary-fullwidth.e06ea2e6.js").then((m) => m.default || m)
   },
   {
-    name: (_kd = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.name) != null ? _kd : "product-three-column-thumbnail-bottom___fr",
-    path: (_ld = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.path) != null ? _ld : "/fr/product/three-column/thumbnail-bottom",
-    file: "/home/sp07/vue/templatian/pages/product/three-column/thumbnail-bottom.vue",
+    name: (_Yb = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.name) != null ? _Yb : "page-portfolio-masonary-fullwidth___fr",
+    path: (_Zb = __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.path) != null ? _Zb : "/fr/page/portfolio/masonary-fullwidth",
+    file: "/home/sp07/vue/templatian/pages/page/portfolio/masonary-fullwidth.vue",
     children: [],
     meta: __nuxt_page_meta$6,
     alias: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.alias) || [],
     redirect: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.redirect) || void 0,
-    component: () => import("./_nuxt/thumbnail-bottom.8d887850.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/masonary-fullwidth.e06ea2e6.js").then((m) => m.default || m)
   },
   {
-    name: (_md = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.name) != null ? _md : "product-three-column-thumbnail-left___en",
-    path: (_nd = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.path) != null ? _nd : "/product/three-column/thumbnail-left",
-    file: "/home/sp07/vue/templatian/pages/product/three-column/thumbnail-left.vue",
+    name: (__b = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.name) != null ? __b : "page-review___en",
+    path: (_$b = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.path) != null ? _$b : "/page/review",
+    file: "/home/sp07/vue/templatian/pages/page/review.vue",
     children: [],
     meta: __nuxt_page_meta$5,
     alias: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.alias) || [],
     redirect: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.redirect) || void 0,
-    component: () => import("./_nuxt/thumbnail-left.aa4a72ab.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/review.b2e9def7.js").then((m) => m.default || m)
   },
   {
-    name: (_od = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.name) != null ? _od : "product-three-column-thumbnail-left___fr",
-    path: (_pd = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.path) != null ? _pd : "/fr/product/three-column/thumbnail-left",
-    file: "/home/sp07/vue/templatian/pages/product/three-column/thumbnail-left.vue",
+    name: (_ac = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.name) != null ? _ac : "page-review___fr",
+    path: (_bc = __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.path) != null ? _bc : "/fr/page/review",
+    file: "/home/sp07/vue/templatian/pages/page/review.vue",
     children: [],
     meta: __nuxt_page_meta$5,
     alias: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.alias) || [],
     redirect: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.redirect) || void 0,
-    component: () => import("./_nuxt/thumbnail-left.aa4a72ab.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/review.b2e9def7.js").then((m) => m.default || m)
   },
   {
-    name: (_qd = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.name) != null ? _qd : "product-three-column-thumbnail-right___en",
-    path: (_rd = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.path) != null ? _rd : "/product/three-column/thumbnail-right",
-    file: "/home/sp07/vue/templatian/pages/product/three-column/thumbnail-right.vue",
+    name: (_cc = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.name) != null ? _cc : "page-search___en",
+    path: (_dc = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.path) != null ? _dc : "/page/search",
+    file: "/home/sp07/vue/templatian/pages/page/search.vue",
     children: [],
     meta: __nuxt_page_meta$4,
     alias: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.alias) || [],
     redirect: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.redirect) || void 0,
-    component: () => import("./_nuxt/thumbnail-right.8052c004.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/search.90fb914a.js").then((m) => m.default || m)
   },
   {
-    name: (_sd = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.name) != null ? _sd : "product-three-column-thumbnail-right___fr",
-    path: (_td = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.path) != null ? _td : "/fr/product/three-column/thumbnail-right",
-    file: "/home/sp07/vue/templatian/pages/product/three-column/thumbnail-right.vue",
+    name: (_ec = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.name) != null ? _ec : "page-search___fr",
+    path: (_fc = __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.path) != null ? _fc : "/fr/page/search",
+    file: "/home/sp07/vue/templatian/pages/page/search.vue",
     children: [],
     meta: __nuxt_page_meta$4,
     alias: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.alias) || [],
     redirect: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.redirect) || void 0,
-    component: () => import("./_nuxt/thumbnail-right.8052c004.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/search.90fb914a.js").then((m) => m.default || m)
   },
   {
-    name: (_ud = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.name) != null ? _ud : "product-thumbnail-image-image-outside___en",
-    path: (_vd = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.path) != null ? _vd : "/product/thumbnail-image/image-outside",
-    file: "/home/sp07/vue/templatian/pages/product/thumbnail-image/image-outside.vue",
+    name: (_gc = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.name) != null ? _gc : "page-sitemap___en",
+    path: (_hc = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.path) != null ? _hc : "/page/sitemap",
+    file: "/home/sp07/vue/templatian/pages/page/sitemap.vue",
     children: [],
     meta: __nuxt_page_meta$3,
     alias: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.alias) || [],
     redirect: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.redirect) || void 0,
-    component: () => import("./_nuxt/image-outside.2a47cbca.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/sitemap.f3f68c12.js").then((m) => m.default || m)
   },
   {
-    name: (_wd = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.name) != null ? _wd : "product-thumbnail-image-image-outside___fr",
-    path: (_xd = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.path) != null ? _xd : "/fr/product/thumbnail-image/image-outside",
-    file: "/home/sp07/vue/templatian/pages/product/thumbnail-image/image-outside.vue",
+    name: (_ic = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.name) != null ? _ic : "page-sitemap___fr",
+    path: (_jc = __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.path) != null ? _jc : "/fr/page/sitemap",
+    file: "/home/sp07/vue/templatian/pages/page/sitemap.vue",
     children: [],
     meta: __nuxt_page_meta$3,
     alias: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.alias) || [],
     redirect: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.redirect) || void 0,
-    component: () => import("./_nuxt/image-outside.2a47cbca.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/sitemap.f3f68c12.js").then((m) => m.default || m)
   },
   {
-    name: (_yd = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.name) != null ? _yd : "product-thumbnail-image-left-image___en",
-    path: (_zd = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.path) != null ? _zd : "/product/thumbnail-image/left-image",
-    file: "/home/sp07/vue/templatian/pages/product/thumbnail-image/left-image.vue",
+    name: (_kc = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.name) != null ? _kc : "page-typography___en",
+    path: (_lc = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.path) != null ? _lc : "/page/typography",
+    file: "/home/sp07/vue/templatian/pages/page/typography.vue",
     children: [],
     meta: __nuxt_page_meta$2,
     alias: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.alias) || [],
     redirect: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.redirect) || void 0,
-    component: () => import("./_nuxt/left-image.3adde136.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/typography.e092d8ad.js").then((m) => m.default || m)
   },
   {
-    name: (_Ad = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.name) != null ? _Ad : "product-thumbnail-image-left-image___fr",
-    path: (_Bd = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.path) != null ? _Bd : "/fr/product/thumbnail-image/left-image",
-    file: "/home/sp07/vue/templatian/pages/product/thumbnail-image/left-image.vue",
+    name: (_mc = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.name) != null ? _mc : "page-typography___fr",
+    path: (_nc = __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.path) != null ? _nc : "/fr/page/typography",
+    file: "/home/sp07/vue/templatian/pages/page/typography.vue",
     children: [],
     meta: __nuxt_page_meta$2,
     alias: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.alias) || [],
     redirect: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.redirect) || void 0,
-    component: () => import("./_nuxt/left-image.3adde136.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/typography.e092d8ad.js").then((m) => m.default || m)
   },
   {
-    name: (_Cd = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.name) != null ? _Cd : "product-thumbnail-image-right-image___en",
-    path: (_Dd = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.path) != null ? _Dd : "/product/thumbnail-image/right-image",
-    file: "/home/sp07/vue/templatian/pages/product/thumbnail-image/right-image.vue",
+    name: (_oc = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.name) != null ? _oc : "product-bundle-product___en",
+    path: (_pc = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.path) != null ? _pc : "/product/bundle-product",
+    file: "/home/sp07/vue/templatian/pages/product/bundle-product.vue",
     children: [],
     meta: __nuxt_page_meta$1,
     alias: (__nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.alias) || [],
     redirect: (__nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.redirect) || void 0,
-    component: () => import("./_nuxt/right-image.f7c13438.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/bundle-product.a27f8567.js").then((m) => m.default || m)
   },
   {
-    name: (_Ed = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.name) != null ? _Ed : "product-thumbnail-image-right-image___fr",
-    path: (_Fd = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.path) != null ? _Fd : "/fr/product/thumbnail-image/right-image",
-    file: "/home/sp07/vue/templatian/pages/product/thumbnail-image/right-image.vue",
+    name: (_qc = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.name) != null ? _qc : "product-bundle-product___fr",
+    path: (_rc = __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.path) != null ? _rc : "/fr/product/bundle-product",
+    file: "/home/sp07/vue/templatian/pages/product/bundle-product.vue",
     children: [],
     meta: __nuxt_page_meta$1,
     alias: (__nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.alias) || [],
     redirect: (__nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.redirect) || void 0,
-    component: () => import("./_nuxt/right-image.f7c13438.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/bundle-product.a27f8567.js").then((m) => m.default || m)
   },
   {
-    name: (_Gd = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.name) != null ? _Gd : "shop-beauty___en",
-    path: (_Hd = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.path) != null ? _Hd : "/shop/beauty",
+    name: (_sc = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.name) != null ? _sc : "shop-beauty___en",
+    path: (_tc = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.path) != null ? _tc : "/shop/beauty",
     file: "/home/sp07/vue/templatian/pages/shop/beauty/index.vue",
     children: [],
     meta: __nuxt_page_meta,
     alias: (__nuxt_page_meta == null ? void 0 : __nuxt_page_meta.alias) || [],
     redirect: (__nuxt_page_meta == null ? void 0 : __nuxt_page_meta.redirect) || void 0,
-    component: () => import("./_nuxt/index.5a3cb294.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index.137b99ca.js").then((m) => m.default || m)
   },
   {
-    name: (_Id = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.name) != null ? _Id : "shop-beauty___fr",
-    path: (_Jd = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.path) != null ? _Jd : "/fr/shop/beauty",
+    name: (_uc = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.name) != null ? _uc : "shop-beauty___fr",
+    path: (_vc = __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.path) != null ? _vc : "/fr/shop/beauty",
     file: "/home/sp07/vue/templatian/pages/shop/beauty/index.vue",
     children: [],
     meta: __nuxt_page_meta,
     alias: (__nuxt_page_meta == null ? void 0 : __nuxt_page_meta.alias) || [],
     redirect: (__nuxt_page_meta == null ? void 0 : __nuxt_page_meta.redirect) || void 0,
-    component: () => import("./_nuxt/index.5a3cb294.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index.137b99ca.js").then((m) => m.default || m)
   }
 ];
 const routerOptions0 = {
@@ -6956,8 +6599,8 @@ const _wrapIf = (component, props, slots) => {
   return { default: () => props ? h(component, props === true ? {} : props, slots) : h(Fragment, {}, slots) };
 };
 const layouts = {
-  custom: () => import("./_nuxt/custom.810d9ee3.js").then((m) => m.default || m),
-  default: () => import("./_nuxt/default.fcc92313.js").then((m) => m.default || m)
+  custom: () => import("./_nuxt/custom.0ff233fc.js").then((m) => m.default || m),
+  default: () => import("./_nuxt/default.d3f3f222.js").then((m) => m.default || m)
 };
 const LayoutLoader = defineComponent({
   props: {
@@ -20910,7 +20553,7 @@ const _sfc_main = {
   __name: "nuxt-root",
   __ssrInlineRender: true,
   setup(__props) {
-    const ErrorComponent = defineAsyncComponent(() => import("./_nuxt/error-component.066d2ece.js").then((r) => r.default || r));
+    const ErrorComponent = defineAsyncComponent(() => import("./_nuxt/error-component.d7e3c96c.js").then((r) => r.default || r));
     const nuxtApp = useNuxtApp();
     nuxtApp.deferHydration();
     provide("_route", useRoute());
