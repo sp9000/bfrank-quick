@@ -8,19 +8,19 @@ export const additionalMessages = Object({"fr":[],})
 export const resolveNuxtI18nOptions = async (context) => {
   const nuxtI18nOptions = Object({})
   const vueI18nOptionsLoader = async (context) => Object({"legacy":false,"locale":"en","messages": Object({"en":{
-  "Home": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Home"])},
-  "Shop": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Shop"])},
-  "Products": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Product"])},
-  "Features": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Feature"])},
-  "Pages": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Pages"])},
-  "Blog": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Blog"])}
+  "Home": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Home"])};fn.source="Home";return fn;})(),
+  "Shop": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Shop"])};fn.source="Shop";return fn;})(),
+  "Products": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Product"])};fn.source="Product";return fn;})(),
+  "Features": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Feature"])};fn.source="Feature";return fn;})(),
+  "Pages": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Pages"])};fn.source="Pages";return fn;})(),
+  "Blog": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Blog"])};fn.source="Blog";return fn;})()
 },"fr":{
-  "Home": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Domicile"])},
-  "Shop": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Magasin"])},
-  "PRODUCTS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Produit"])},
-  "FEATURES": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Caractéristique"])},
-  "PAGES": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["pages"])},
-  "BLOG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Blog"])}
+  "Home": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Domicile"])};fn.source="Domicile";return fn;})(),
+  "Shop": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Magasin"])};fn.source="Magasin";return fn;})(),
+  "PRODUCTS": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Produit"])};fn.source="Produit";return fn;})(),
+  "FEATURES": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Caractéristique"])};fn.source="Caractéristique";return fn;})(),
+  "PAGES": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["pages"])};fn.source="pages";return fn;})(),
+  "BLOG": (()=>{const fn=(ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Blog"])};fn.source="Blog";return fn;})()
 },}),})
   nuxtI18nOptions.vueI18n = await vueI18nOptionsLoader(context)
   nuxtI18nOptions.locales = [Object({"code":"en","name":"English"}),Object({"code":"fr","name":"Français"})]
@@ -51,5 +51,5 @@ export const nuxtI18nOptionsDefault = Object({vueI18n: undefined,locales: [],def
 
 export const nuxtI18nInternalOptions = Object({__normalizedLocales: [Object({"code":"en","name":"English"}),Object({"code":"fr","name":"Français"})]})
 export const NUXT_I18N_MODULE_ID = "@nuxtjs/i18n"
-export const isSSG = true
+export const isSSG = false
 export const isSSR = true
